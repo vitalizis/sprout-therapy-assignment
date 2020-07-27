@@ -1,0 +1,12 @@
+.numberInput{
+    margin-bottom: 10px;
+}
+
+.numberInput Input {
+    width: 100px;
+}
+
+.InputTitle {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
