@@ -29,7 +29,7 @@ class Custom2Algorithm{
     }
     getResult(inputData) {
         this.inputData = inputData;
-        console.log('base');
+        console.log('custom2');
         return {
             h: this.calculateH(this.inputData),
             k:this.calculateK(this.calculateH(this.inputData),this.inputData),
