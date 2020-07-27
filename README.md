@@ -3,7 +3,7 @@
 For start project:
 
 1. git clone https://github.com/vitalizis/sprout-therapy-assignment
-2. cd to sprout-therapy-assignment
+2. cd sprout-therapy-assignment
 3. npm install 
 4. npm start
 5. npm run cypress:open - for start cypress
